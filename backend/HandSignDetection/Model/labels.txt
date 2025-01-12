@@ -1,0 +1,5 @@
+0 C Major Chord
+1 A Major Chord
+2 G Major Chord
+3 E Major Chord
+4 D Major Chord
